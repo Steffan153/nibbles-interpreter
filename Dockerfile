@@ -16,3 +16,5 @@ RUN npm install
 CMD ["node", "app.js"]
 
 EXPOSE 8080
+
+EXPOSE 10000
